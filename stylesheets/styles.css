@@ -851,6 +851,7 @@ nav ul a:hover {
 }
 
 footer {
+  color: #ddd;
   width: 180px;
   position: fixed;
   left: 50%;
@@ -858,6 +859,10 @@ footer {
   bottom: 20px;
   text-align: right;
   line-height: 16px;
+}
+
+footer a {
+    color: #58bbef;
 }
 
 @media print, screen and (max-width: 1060px) {
