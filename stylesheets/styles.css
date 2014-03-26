@@ -900,7 +900,7 @@ footer a {
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px auto;
-    margin: 190px auto 20px;
+    margin: 215px auto 20px;
     max-width: 600px;
   }
 
@@ -935,7 +935,7 @@ footer a {
   }
 
   #banner {
-    top: 80px;
+    top: 120px;
   }
   #banner .fork {
     float: left;
@@ -946,7 +946,7 @@ footer a {
   }
 
   section {
-    margin-top: 130px;
+    margin-top: 155px;
     margin-bottom: 0px;
     width: auto;
   }
